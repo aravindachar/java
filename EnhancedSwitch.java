@@ -9,6 +9,17 @@ public class EnhancedSwitch {
         case "orange" -> System.out.print("its orangeee");
         case "banana" -> System.out.print("its long yellow");
         default -> System.out.println("chill bro you can ");
+                        String day = input.next();
+        switch (day) {
+            case 1,2,3,4,5 ->System.out.println("week day");
+                break;
+            case 6 , 7-> System.out.println("weekend");
+                break;
+        
+            default:
+                System.out.println("May be your not belongs to eart11111");
+                break;
+        }
         }
     }
 }
