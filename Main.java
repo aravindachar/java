@@ -1,5 +1,5 @@
 package Arrays;
-
+// this is the Array topic
 public class Main {
     public static void main(String[] args) {
         // Array is collection of datatypes(premitive or nonpremitive)
