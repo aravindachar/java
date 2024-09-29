@@ -26,6 +26,9 @@ public class ArrayL{
         // Arraylist Functiins
         list.remove(4);
         list.set(2, 344);
+        list.remove(3);
+        // create a arraylist store string values 
+        ArrayList<String> lists = new ArrayList<String>();
         
     }   
 }
